@@ -111,7 +111,3 @@ Instale as dependências usando npm install.
 Execute o servidor com npm start.
 
 Acesse a API em http://localhost:3000.
-
-## Agradecimentos
-
-Gostaria de expressar minha sincera gratidão ao iFood por fornecer a bolsa de estudos que tornou possível minha participação no curso da CUBOS Academy. Este projeto é resultado do meu aprendizado contínuo adquirido durante esse curso e de minha faculdade, e sem dúvidas é um marco muito importante em minha jornada de desenvolvimento!
