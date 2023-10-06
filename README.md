@@ -3,7 +3,7 @@ Bem-vindo ao projeto do Banco Digital desenvolvido como parte do meu curso na CU
 
 ## Descrição
 
-Este projeto é uma implementação de uma API RESTful que permite realizar operações bancárias básicas, como criar uma conta bancária, listar contas, depositar, sacar, transferir fundos, consultar saldo e emitir extratos. O projeto é construído seguindo os princípios do estilo arquitetural REST (Representational State Transfer). O projeto está ativo e em desenvolvimento contínuo. Novos recursos e melhorias serão adicionados regularmente, assim como a integração com um banco de dados PostgreSQL no futuro.
+Este projeto é uma implementação de uma API RESTful que permite realizar operações bancárias básicas, como criar uma conta bancária, listar contas, depositar, sacar, transferir fundos, consultar saldo e emitir extratos. O projeto é construído seguindo os princípios do estilo arquitetural REST (Representational State Transfer). O projeto está ativo e em desenvolvimento contínuo. Novos recursos e melhorias serão adicionados regularmente, assim como a integração com um banco de dados no futuro.
 
 ## Funcionalidades
 Criar conta bancária
@@ -111,3 +111,7 @@ Instale as dependências usando npm install.
 Execute o servidor com npm start.
 
 Acesse a API em http://localhost:3000.
+
+## Agradecimentos
+
+Imensa gratidão à Cubos Academy, pelo conhecimento que está sendo nos passado e pelo excelente ensino!
